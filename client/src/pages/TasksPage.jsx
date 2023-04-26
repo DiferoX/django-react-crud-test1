@@ -1,9 +1,5 @@
-import React from 'react'
-
-const TasksPage = () => {
+export function TasksPage () {
   return (
     <div>TasksPage</div>
   )
 }
-
-export default TasksPage
